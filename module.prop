@@ -1,0 +1,7 @@
+id=mimarket2sys
+name=MiMarket2Sys
+version=v4.87.0
+versionCode=40005780
+author=Eduard
+description=Install Xiaomi Market as system app
+updateJson=https://raw.githubusercontent.com/EduardChou/MiMarket2Sys/main/module.json
